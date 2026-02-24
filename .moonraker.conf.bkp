@@ -25,6 +25,10 @@ cors_domains =
 
 [history]
 
+[analysis]
+enable_auto_analysis = True
+enable_estimator_updates = True
+
 [update_manager]
 channel = dev
 refresh_interval = 168
